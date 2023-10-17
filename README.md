@@ -1,3 +1,5 @@
-# React + TypeScript + Vite
+# Custom Vite boilerplate
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Based on React 17 and Vite.
+
+
