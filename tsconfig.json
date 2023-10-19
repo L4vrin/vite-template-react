@@ -36,7 +36,10 @@
 
     "noImplicitAny": true,
     "noFallthroughCasesInSwitch": true,
-    "baseUrl": "./src"
+    "baseUrl": "./src",
+    "paths": {
+      "~/*": ["./*"]
+   }
   },
   "include": ["./src/**/*", "styled.d.ts"],
   "references": [{ "path": "./tsconfig.node.json" }]
